@@ -1,4 +1,4 @@
-libzip.so.4 libzip4 #MINVER#
+libzip.so.4 libzip4t64 #MINVER#
  zip_libzip_version@Base 1.3.2
  zip_add@Base 0.10
  zip_add_dir@Base 0.10
